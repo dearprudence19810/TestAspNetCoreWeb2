@@ -1,0 +1,17 @@
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\TestAspNetCoreWeb2.exe
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\TestAspNetCoreWeb2.deps.json
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\TestAspNetCoreWeb2.runtimeconfig.json
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\TestAspNetCoreWeb2.runtimeconfig.dev.json
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\TestAspNetCoreWeb2.dll
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\bin\Debug\netcoreapp3.1\TestAspNetCoreWeb2.pdb
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\obj\Debug\netcoreapp3.1\staticwebassets\TestAspNetCoreWeb2.StaticWebAssets.Manifest.cache
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\obj\Debug\netcoreapp3.1\staticwebassets\TestAspNetCoreWeb2.StaticWebAssets.xml
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\obj\Debug\netcoreapp3.1\TestAspNetCoreWeb2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\obj\Debug\netcoreapp3.1\TestAspNetCoreWeb2.AssemblyInfoInputs.cache
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\obj\Debug\netcoreapp3.1\TestAspNetCoreWeb2.AssemblyInfo.cs
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\obj\Debug\netcoreapp3.1\TestAspNetCoreWeb2.RazorTargetAssemblyInfo.cache
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\obj\Debug\netcoreapp3.1\TestAspNetCoreWeb2.dll
+C:\Users\johnf\Development\TestAspNetCoreWeb2\TestAspNetCoreWeb2\obj\Debug\netcoreapp3.1\TestAspNetCoreWeb2.pdb
